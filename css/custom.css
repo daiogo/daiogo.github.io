@@ -6,3 +6,8 @@
 .education-item {
     display: block;
 }
+
+.logo {
+    float: left;
+    height: 74px;
+}
