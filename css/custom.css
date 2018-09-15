@@ -8,21 +8,20 @@
 }
 
 .logo {
-    height: 74px;
+    height: 64px;
 }
 
-.item-heading {
-    border: 1px solid black;
-}
+/*.item-heading {
+
+}*/
 
 .item-img {
+    padding: 5px;
     height: 74px;
-    border: 1px solid blue;
     float: left;
     margin-right: 10px;
 }
 
 .item-desc {
-    border: 1px solid red;
     display: inline-block;
 }
