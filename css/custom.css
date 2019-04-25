@@ -3,6 +3,11 @@
     display: inline-block;
 }
 
+.interests {
+    width: 350px;
+    display: inline-block;
+}
+
 .education-item {
     display: block;
 }
